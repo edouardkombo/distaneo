@@ -21,5 +21,5 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
 
 ## Understand the psychology
 
-Follow the article written specifically for this challenge here: [Laravel GPS coordinates challenge](https://edouard-kombo.medium.com/locate-people-at-a-specific-distance-range-from-gps-coordinates-using-laravel-ee07e0c6b601).
+Follow the article written specifically for this challenge here: [medium.com article](https://edouard-kombo.medium.com/locate-people-at-a-specific-distance-range-from-gps-coordinates-using-laravel-ee07e0c6b601).
 
